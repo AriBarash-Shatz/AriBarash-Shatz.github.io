@@ -8,7 +8,7 @@
 </head>
 <body>
   <header class="site-header">
-    <div class="brand">Hope Gangloff (recreation)</div>
+    <div class="brand">Ari Barash (recreation)</div>
     <nav class="main-nav">
       <button class="menu-toggle" aria-expanded="false">Menu</button>
       <ul class="nav-list">
