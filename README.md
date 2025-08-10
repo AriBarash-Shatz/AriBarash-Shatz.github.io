@@ -54,7 +54,7 @@
   </main>
 
   <footer class="site-footer" id="contact">
-    <p>Represented by Susan Inglett Gallery — inquiries: info@inglettgallery.com</p>
+    <p> inquiries:aribarash@gmail.com </p>
   </footer>
 
   <script src="script.js"></script>
