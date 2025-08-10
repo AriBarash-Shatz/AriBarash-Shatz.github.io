@@ -1,13 +1,62 @@
-# ARI BARASH 
-#### LIFE IS FULL OF ANOMALIATED BLATENT GROMETS AND BLOWN MATRESSED OVENS. 
-#### SLIDE YOUR PRIDE TO ASSEMABLE ALIGNED STARS AND VANILLA SHAKED ASS
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Artist Gallery — Starter</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="brand">Hope Gangloff (recreation)</div>
+    <nav class="main-nav">
+      <button class="menu-toggle" aria-expanded="false">Menu</button>
+      <ul class="nav-list">
+        <li><a href="#paintings">Paintings</a></li>
+        <li><a href="#drawings">Drawings</a></li>
+        <li><a href="#postcards">Postcards</a></li>
+        <li><a href="#posters">Posters</a></li>
+        <li><a href="#illustrations">Illustrations</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-[![IMAGE ALT TEXT HERE]([)](https://www.youtube.com/channel/UCJBcX2v6Ib97KOvJsL-O-Ow/videos)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+  <main>
+    <section id="gallery" class="gallery">
+      <!-- Example gallery items. Replace src and data-title as needed -->
+      <figure class="card">
+        <img src="images/IMG_3032.jpg" alt="Search In the Rain" loading="lazy">
+        <figcaption>
+          <h3>Search In the Rain</h3>
+          <p>Acrylic on canvas. 36" x 62". 2017.</p>
+        </figcaption>
+      </figure>
 
+      <figure class="card">
+        <img src="images/IMG_5567.jpg" alt="Birch Stand South of Cheney Cabin 2019" loading="lazy">
+        <figcaption>
+          <h3>Birch Stand South of Cheney Cabin</h3>
+          <p>2019</p>
+        </figcaption>
+      </figure>
 
+      <figure class="card">
+        <img src="images/Hope_Halya_fullsize-1.jpg" alt="Portrait" loading="lazy">
+        <figcaption>
+          <h3>Portrait</h3>
+          <p>Acrylic on linen. 72" x 48". 2016.</p>
+        </figcaption>
+      </figure>
 
-![bw](https://github.com/user-attachments/assets/102d5947-0b62-4aeb-82c6-4d3f1d63276b)
-https://youtu.be/8-tSCG4KDTI 
+      <!-- add more items here -->
+    </section>
+  </main>
+
+  <footer class="site-footer" id="contact">
+    <p>Represented by Susan Inglett Gallery — inquiries: info@inglettgallery.com</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
